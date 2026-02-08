@@ -6,3 +6,4 @@ mediapipe
 numpy
 matplotlib
 tensorflow
+pathlib 
